@@ -3,6 +3,7 @@ import json
 import pandas as pd
 import csv
 
+#get external list of twitter URLS format example: https://twitter.com/oprah
 filename = "waybackurls.csv"
 
 
